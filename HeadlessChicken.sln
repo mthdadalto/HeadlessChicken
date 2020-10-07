@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadlessChicken", "HeadlessChicken\HeadlessChicken.csproj", "{6889AD9C-5307-4FFD-8623-B536B04E11AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Release|iPhone.Build.0 = Release|iPhone
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Release|iPhone.Deploy.0 = Release|iPhone
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{6889AD9C-5307-4FFD-8623-B536B04E11AF}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86B80CB9-DCAA-4932-AE3E-3496232894D3}
+	EndGlobalSection
+EndGlobal
